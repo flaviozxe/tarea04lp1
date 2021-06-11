@@ -1,0 +1,20 @@
+package entidad;
+
+public class Tipo_Cliente {
+	private int idTpoCliente;
+	private static String nombre;
+	public int getIdTpoCliente() {
+		return idTpoCliente;
+	}
+	public void setIdTpoCliente(int idTpoCliente) {
+		this.idTpoCliente = idTpoCliente;
+	}
+	public static String getNombre() {
+		return nombre;
+	}
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+	
+	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;gui.FrmAumno&apos; to &apos;FrmAlumno&apos;&#x0D;&#x0A;- Original project: &apos;LP1_SEMANA01_PARTE_B&apos;&#x0D;&#x0A;- Original element: &apos;gui.FrmAumno&apos;&#x0D;&#x0A;- Renamed element: &apos;gui.FrmAlumno&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FrmAumno&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;gui{FrmAumno.java[FrmAumno" matchStrategy="1" name="FrmAlumno" qualified="false" references="true" similarDeclarations="false" stamp="1616865072816" textual="false" version="1.0"/>
+</session>

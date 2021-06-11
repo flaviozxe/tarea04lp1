@@ -1,0 +1,20 @@
+INDEX VERSION 1.130+D:\Cibertec\Cursos\Ciclo 3\Lenguaje de programacion I\Tarea4\.metadata\.plugins\org.eclipse.jdt.core
+185544585.index
+4083412891.index
+2205316091.index
+1279968410.index
+2682884584.index
+1478104138.index
+1075832721.index
+3342447813.index
+3227819420.index
+2801881314.index
+429220462.index
+373126929.index
+286344767.index
+1376593290.index
+3173047796.index
+746022326.index
+3658993259.index
+1539293400.index
+3900668970.index
